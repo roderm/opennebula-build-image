@@ -77,3 +77,6 @@ resource "opennebula_virtual_machine" "myubuntu-instance" {
 #### Image
 #### VM-Template
 #### VM
+
+## Sources
+Inspired by: https://opennebula.io/creating-customized-images/

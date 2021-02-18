@@ -1,4 +1,6 @@
 tmp
 *.qcow2
+*.qcow2c
 *.img
 *.deb
+*.rpm
